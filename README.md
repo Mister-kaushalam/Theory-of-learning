@@ -4,6 +4,10 @@
 
 This repository contains the implementation of tasks related to the Theory of Learning. The project showcases concepts such as perceptron classification, learning curves, linear regression, and linear classification, demonstrating the application of theoretical knowledge in practical scenarios.
 
+- Author: Kaushal Bhavsar
+- LinkedIn : https://www.linkedin.com/in/kb07/
+- Github: Mister-kaushalam
+
 ## Project Description
 
 The tasks are aimed at understanding the foundational principles of learning models, their behavior with various datasets, and how loss/error functions affect performance. 
